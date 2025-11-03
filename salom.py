@@ -1,0 +1,2 @@
+ism = "abbos"
+print(ism)
